@@ -1,0 +1,7 @@
+{
+  "name": "oximeter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
